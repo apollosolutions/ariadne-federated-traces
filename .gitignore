@@ -1,0 +1,16 @@
+# system
+
+.DS_Store
+
+#environment
+
+.env
+
+# node
+
+*package-lock.json
+node_modules/
+
+# python
+
+__pycache__
